@@ -116,8 +116,8 @@ video{
 	font-size: 30px;
 	position: absolute;
 	width: 829px;
-	left: 486px;
-	top: 114px;
+	left: 606px;
+	top: 1029px;
 }
 .detail1 p1{
 	font-size: 20px !important;
@@ -129,8 +129,8 @@ video{
 	color: white;
 	padding: 20px;
 	position: absolute;
-	left: 553px;
-	top: 298px;
+	left: 719px;
+	top: 1221px;
 }
 .momen1:hover{
 	transition:0.5s ease;
@@ -152,15 +152,15 @@ video{
 	font-size: 60px;
 	color: rgb(0,0,51);
 	position: absolute;
-	left: -870px;
-	top: 44px;
+	left: -780px;
+	top: 48px;
 	
 }
 .detail2a{
 	font-size: 30px;
 	position: absolute;
-	left: -866px;
-	top: 120px;
+	left: 160px;
+	top: 1552px;
 }
 .detail2b{
 	font-size: 28px;
@@ -171,9 +171,9 @@ video{
 .detail2b p{
 	font-size: 18px !important;
 	position: absolute;
-	left: -8px;
-	top: 58px;
-	width: 817px;
+	width: 729px;
+	left: 1023px;
+	top: 1420px;
 }
 .momen2{
 	background-color: rgba(0,0,51,0.9);
@@ -183,9 +183,9 @@ video{
 	padding: 20px;
 	position: absolute;
 	text-align: center;
-	left: -803px;
-	top: 369px;
+	top: 1747px;
 	width: 115px;
+	left: 338px;
 }
 .momen2:hover{
 	transition:0.5s ease;
@@ -235,16 +235,16 @@ video{
 .detail3a{
 	font-size: 30px;
 	position: absolute;
-	left: 492px;
-	top: 146px;
 	width: 375px;
+	left: 610px;
+	top: 2134px;
 }
 .detail3b{
 	font-size: 20px;
 	position: absolute;
 	width: 831px;
-	left: 490px;
-	top: 202px;
+	left: 610px;
+	top: 2194px;
 }
 .momen3{
 	background-color: rgba(0,0,51,0.9);
@@ -255,8 +255,8 @@ video{
 	position: absolute;
 	text-align: center;
 	width: 199px;
-	left: 511px;
-	top: 324px;
+	top: 2314px;
+	left: 692px;
 }
 .momen3:hover{
 	transition:0.5s ease;
@@ -278,23 +278,23 @@ video{
 	font-size: 60px;
 	color: rgb(0,0,51);
 	position: absolute;
-	left: -853px;
-	top: 71px;
+	left: -771px;
+	top: 69px;
 	width: 618px;
 }
 .detail4a{
 	font-size: 30px;
 	position: absolute;
-	left: -855px;
-	top: 141px;
+	top: 2649px;
 	width: 693px;
+	left: 164px;
 }
 .detail4b{
 	font-size: 20px;
 	position: absolute;
-	width: 755px;
-	left: -854px;
-	top: 210px;
+	width: 739px;
+	top: 2712px;
+	left: 164px;
 }
 .momen4{
 	background-color: rgba(0,0,51,0.9);
@@ -304,9 +304,9 @@ video{
 	padding: 20px;
 	position: absolute;
 	text-align: center;
-	width: 165px;
-	left: -794px;
-	top: 323px;
+	width: 164px;
+	top: 2809px;
+	left: 264px;
 }
 .momen4:hover{
 	transition:0.5s ease;
@@ -336,8 +336,8 @@ video{
 	font-size: 20px;
 	position: absolute;
 	width: 693px;
-	left: 505px;
-	top: 147px;
+	top: 3145px;
+	left: 628px;
 }
 .momen5{
 	background-color: rgba(0,0,51,0.9);
@@ -347,9 +347,9 @@ video{
 	padding: 20px;
 	position: absolute;
 	text-align: center;
-	width: 164px;
-	left: -790px;
-	top: 301px;
+	width: 356px;
+	top: 3243px;
+	left: 686px;
 	}
 .momen5:hover{
 	transition:0.5s ease;
@@ -371,16 +371,16 @@ video{
 	font-size: 60px;
 	color: rgb(0,0,51);
 	position: absolute;
-	left: -825px;
-	top: 66px;
+	left: -785px;
+	top: 64px;
 	width: 618px;
 }
 .detail6a{
 	font-size: 20px;
 	position: absolute;
-	left: -826px;
-	top: 172px;
+	top: 3664px;
 	width: 743px;
+	left: 168px;
 }
 .momen6{
 	background-color: rgba(0,0,51,0.9);
@@ -391,8 +391,8 @@ video{
 	position: absolute;
 	text-align: center;
 	width: 165px;
-	left: -794px;
-	top: 323px;
+	left: 366px;
+	top: 3794px;
 }
 .momen6:hover{
 	transition:0.5s ease;
@@ -422,14 +422,14 @@ video{
 	font-size: 30px;
 	position: absolute;
 	width: 367px;
-	left: 523px;
-	top: 91px;
+	left: 641px;
+	top: 4115px;
 }
 .detail7b{
 	font-size: 20px;
 	position: absolute;
-	top: 194px;
-	left: 524px;
+	top: 4170px;
+	left: 640px;
 	width: 679px;
 }
 .momen7{
@@ -440,8 +440,8 @@ video{
 	padding: 20px;
 	position: absolute;
 	text-align: center;
-	top: 326px;
-	left: 556px;
+	top: 4318px;
+	left: 692px;
 	width: 321px;
 }
 .momen7:hover{
@@ -473,16 +473,16 @@ video{
 	font-size: 30px;
 	position: absolute;
 	width: 367px;
-	left: -691px;
-	top: 109px;
+	top: 4723px;
+	left: 262px;
 	
 }
 .detail8b{
 	font-size: 20px;
 	position: absolute;
 	width: 636px;
-	left: -698px;
-	top: 193px;
+	top: 4787px;
+	left: 260px;
 }
 .momen8{
 	background-color: rgba(0,0,51,0.9);
@@ -493,8 +493,8 @@ video{
 	position: absolute;
 	text-align: center;
 	width: 275px;
-	left: -634px;
-	top: 324px;
+	top: 4918px;
+	left: 352px;
 }
 .momen8:hover{
 	transition:0.5s ease;
@@ -642,4 +642,48 @@ video{
 	border: 3px solid white;
 	transition:0.5s ease;
 	color: white;
+}
+.para1:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
+}
+.para2:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
+}
+
+.para3:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
+}
+
+.para4:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
+}
+
+.para5:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
+}
+.para6:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
+}
+
+.para7:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
+}
+.para8:hover{
+	cursor:pointer;
+	transition:1.5s ease;
+	transform:scale(1.15,1.15);
 }
